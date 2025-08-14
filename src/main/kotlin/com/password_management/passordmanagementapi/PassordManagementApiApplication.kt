@@ -1,4 +1,4 @@
-package com.password_management.PassordManagementAPI
+package com.password_management.passordmanagementapi
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
